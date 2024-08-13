@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacob/CLionProjects/Lab1/Scanner.h
+Token.h
+C:/Users/jacob/CLionProjects/Lab1/Token.h
+iostream
+-
+sstream
+-
+cwctype
+-
+
+C:/Users/jacob/CLionProjects/Lab1/Token.h
+string
+-
+sstream
+-
+
+C:/Users/jacob/CLionProjects/Lab1/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+Token.h
+C:/Users/jacob/CLionProjects/Lab1/Token.h
+Scanner.h
+C:/Users/jacob/CLionProjects/Lab1/Scanner.h
+

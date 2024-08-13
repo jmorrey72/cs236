@@ -1,0 +1,32 @@
+Books, Organized By Author
+	Brandon Sanderson
+		Alcatraz and the Evil Librarians by Brandon Sanderson
+		---
+		Number of books: 1
+		Number of pages: 320
+		Number of hours: 1.6
+
+	Jennifer A. Nielsen
+		The False Prince by Jennifer A. Nielsen
+		---
+		Number of books: 1
+		Number of pages: 352
+		Number of hours: 0
+
+
+Books, Organized By Genre
+	fantasy
+		Alcatraz and the Evil Librarians by Brandon Sanderson
+		---
+		Number of books: 1
+		Number of pages: 320
+		Number of hours: 1.6
+
+	fiction
+		The False Prince by Jennifer A. Nielsen
+		---
+		Number of books: 1
+		Number of pages: 352
+		Number of hours: 0
+
+
